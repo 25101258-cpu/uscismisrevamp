@@ -11,6 +11,16 @@ The **Unified Bundle** includes all modernization features (Login, Grades, Sched
 
 **[👉 Install ISMIS Revamp Bundle (v1.3)](https://github.com/25101258-cpu/uscismisrevamp/raw/refs/heads/main/ISMIS_Revamp_Bundle.user.js)**
 
+## 📸 Preview
+
+*Experience the transformation of the USC ISMIS portal.*
+
+| Login Page | Dashboard | Weekly Schedule |
+| :---: | :---: | :---: |
+| ![Login Preview](screenshots/login.png) | ![Dashboard Preview](screenshots/dashboard.png) | ![Schedule Preview](screenshots/schedule.png) |
+| *Modern Glassmorphism Login* | *Luxury Hero & Sidebar* | *Interactive Timetable* |
+
+---
 
 ## ✨ Integrated Modules
 
