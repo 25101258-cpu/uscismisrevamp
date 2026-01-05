@@ -15,10 +15,14 @@ The **Unified Bundle** includes all modernization features (Login, Grades, Sched
 
 *Experience the transformation of the USC ISMIS portal.*
 
-| Login Page | Dashboard | Weekly Schedule |
-| :---: | :---: | :---: |
-| ![Login Preview](screenshots/login.png) | ![Dashboard Preview](screenshots/dashboard.png) | ![Schedule Preview](screenshots/schedule.png) |
-| *Modern Glassmorphism Login* | *Luxury Hero & Sidebar* | *Interactive Timetable* |
+### 🔐 Modern Glassmorphism Login
+![Login Preview](screenshots/login.png)
+
+### 📊 Luxury Dashboard & Sidebar
+![Dashboard Preview](screenshots/dashboard.png)
+
+### 📅 Interactive Weekly Timetable
+![Schedule Preview](screenshots/schedule.png)
 
 ---
 
