@@ -6,7 +6,7 @@ A comprehensive UI/UX overhaul for the University of San Carlos Integrated Stude
 
 The **Unified Bundle** includes all modernization features (Login, Grades, Schedule, Tuition) in a single script.
 
-1.  **Install Tampermonkey**: [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) | [Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepbluegdocjnii)
+1.  **Install Tampermonkey**: [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) | [Edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd) | [Opera](https://addons.opera.com/en/extensions/details/tampermonkey-beta/)
 2.  **Add the Script**: Click the link below:
 
 **[👉 Install ISMIS Revamp Bundle (v1.3)](https://github.com/25101258-cpu/uscismisrevamp/raw/refs/heads/main/ISMIS_Revamp_Bundle.user.js)**
